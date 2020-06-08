@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "164006125529",
+    "firebase_url": "https://guide-93c30.firebaseio.com",
+    "project_id": "guide-93c30",
+    "storage_bucket": "guide-93c30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164006125529:android:b70aa50abfc68aad5f83c8",
+        "android_client_info": {
+          "package_name": "com.example.guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164006125529-hdan1limhv1qkt7j2g3blbb7i7h7nhdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCGzdOUfs2cjX6ZxuzS-jPsTEJfCwwf7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164006125529-hdan1limhv1qkt7j2g3blbb7i7h7nhdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
